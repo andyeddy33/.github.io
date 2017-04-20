@@ -1,0 +1,109 @@
+body {
+    background-color: lightblue/;
+
+        
+font-family: sans-serif;
+    
+}
+    h1{color: navy;
+        text-align:center;
+        text-decoration: inherit;
+            font-size:28pt
+        
+    }
+
+h2{
+    font-style: italic;
+        color:red;
+            text-align: center
+}
+
+a {
+    text-decoration:underline;
+    color:red
+}
+
+.nav{
+    position:relative;
+    background-color: aliceblue;
+       top:-9px;
+    padding: 20px 0px 50px 0px;
+    margin-bottom: 0px
+}
+
+.nav ul, li, a {
+    
+    display: inline;
+    padding:10px;
+        text-decoration:inherit;
+    color:navy;
+    float:center;
+        background color: lightsteelblue
+}
+
+.rocket{
+    background-color:lightcoral;
+    padding: 30px 0px 30px 0px;
+    position:relative;
+    top:-9px;
+        text-align:center
+}
+
+p {
+    font-family: cursive;
+        font-size: 16pt;
+            background-color: antiquewhite
+}
+
+h4{font-family: sans-serif;
+color:red}
+
+
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+        border
+}
+
+table {background-color: gainsboro;
+ font-size: 18pt
+}
+
+ol { border-bottom-color: white;
+font-size: 14pt;
+}
+
+h5{font-size: 20pt;
+float: center}
+
+.snowshoe{background-color: lightcoral;
+font-family:sans-serif}
+
+.snowshoe ol li p{font-family: sans-serif;
+    background-color: lightcoral;
+    font-size: 18pt;
+    text-decoration: underline;
+    float:center;
+        color: white
+}
+.braves {background-color: aquamarine}
+.braves ol li p {background-color: aquamarine;
+color:royalblue;
+font-family: monospace;
+font-size: 18pt}
+
+.chop p {background-color: white;
+color:navy;
+font-family:serif}
+
+h6{font-size: 20pt;
+    background-color: aquamarine;
+        color:royalblue;
+    padding: 30px 0px 30px 0px
+            
+}
+q{color:black;
+    text-decoration: underline
+        
+}
